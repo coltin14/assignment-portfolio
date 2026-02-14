@@ -1,0 +1,43 @@
+html, body {
+     height: 100%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(3, 234, 255);
+    color: #333;
+}
+
+header {
+    background: #0078d4;
+    color: pink;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+main {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.box {
+    background: orange;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+a {
+    text-decoration: none;
+    color: #0078d4;
+    font-weight: bold;
+}
+
+
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: blueviolet;
+}
