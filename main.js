@@ -1,3 +1,5 @@
+// I used chatgpt for some of this code, 
+
 const assignments = [
     { name: "Assignment 1 — Getting to Know Each Other", link: "https://coltin14.github.io/Getting-To-Know-Each-Other/" },
     { name: "Assignment 2 — Resume", link: "https://jolly-stone-05ac6be10.4.azurestaticapps.net" },
